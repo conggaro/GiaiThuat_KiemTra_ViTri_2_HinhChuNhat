@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hcn-01{
+    background: blue;
+    position: absolute;
+    z-index: 0;
+}
+
+.hcn-02{
+    background: green;
+    position: absolute;
+    z-index: 1;
+}
